@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="btnEsegui" Content="Button" HorizontalAlignment="Left" Margin="383,170,0,0" VerticalAlignment="Top" Click="btnEsegui_Click"/>
+        <Button x:Name="btnEsegui" Content="Media" HorizontalAlignment="Left" Margin="383,170,0,0" VerticalAlignment="Top" Click="btnEsegui_Click"/>
         <Label x:Name="lblMain" Content="" HorizontalAlignment="Left" Margin="383,104,0,0" VerticalAlignment="Top"/>
 
     </Grid>
